@@ -1,0 +1,21 @@
+generated: '2026-07-18'
+method: searched
+source: live probes of /.well-known/ on Auquan hosts
+host: https://www.auquan.com
+documents:
+- path: /.well-known/security.txt
+  status: 404
+- path: /.well-known/openid-configuration
+  status: 404
+- path: /.well-known/oauth-authorization-server
+  status: 404
+- path: /.well-known/api-catalog
+  status: 404
+- path: /.well-known/ai-plugin.json
+  status: 404
+notes: >-
+  No /.well-known/ discovery documents are published on www.auquan.com or
+  engine.auquan.com (all 404). Auquan exposes no public developer/OpenAPI
+  surface; the product is a demo/sales-gated agentic AI platform. A public
+  /llms.txt IS published (see llms/auquan-llms.txt) which advertises
+  security@auquan.com and dev@auquan.com as contacts.

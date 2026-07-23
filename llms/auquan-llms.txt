@@ -1,0 +1,32 @@
+# Auquan: AI Agents for Institutional finance
+Auquan provides production-grade AI agents for institutional finance — agentic systems that autonomously execute end-to-end workflows and convert messy, global data into auditable, decision-ready intelligence for banks, asset managers, private credit, insurers and other institutional clients.
+
+# Metadata
+Format-Version: 1.0
+Contact: webmaster@auquan.com | security@auquan.com | developer-contact: dev@auquan.com
+Cache-Control: public, max-age=86400
+Last-Updated: 2026-01-19
+
+
+## Thought Leadership & Research
+- Auquan Named a Gartner Cool Vendor in Agentic AI for Banking and Investment Services: https://insights.auquan.com/auquan-named-a-gartner-cool-vendor-in-agentic-ai-for-banking-and-investment-services
+- How Auquan Brings Agentic AI to Institutional Finance and Credit Markets: https://insights.auquan.com/featured-how-auquan-brings-agentic-ai-to-institutional-finance-and-credit-markets
+- The first autonomous AI for credit analysis and monitoring: https://insights.auquan.com/introducing-auquans-credit-agent-the-first-autonomous-ai-for-credit-analysis-and-monitoring
+- Industry's First AI Agent for Financial Services Sustainability Teams: https://insights.auquan.com/auquan-launches-industrys-first-ai-agent-for-financial-services-sustainability-teams
+- Auquan's partnership with Microsoft: https://insights.auquan.com/auquans-partnership-with-microsoft-automating-50000-hours-of-manual-work-with-azure-openai
+
+## Solutions and agents
+- Sustainability agent: https://www.auquan.com/solutions/sustainability
+- Private Credit agent: https://www.auquan.com/solutions/credit
+- Investment relations agent: https://www.auquan.com/solutions/ir
+
+## Company & Authority
+- Company Overview — https://auquan.com/about
+- Customer Success Stories — https://auquan.com/
+- Contact — https://www.auquan.com/contact
+- Auquan Business insider - https://www.businessinsider.com/ai-agent-fintech-auquans-pitch-deck-seed-round-2025-1
+
+## Optional / Secondary Resources
+- Blog Archive — https://insights.auquan.com/
+- Community & Support —https://www.auquan.com/contact
+- Press & News — https://insights.auquan.com

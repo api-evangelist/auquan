@@ -1,19 +1,48 @@
 aid: auquan
 name: Auquan
-description: Auquan is a company surfaced as a portfolio company of techstars and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Auquan builds production-grade, autonomous AI agents for institutional finance —
+  agentic systems that convert messy, global, unstructured data (earnings calls,
+  ESG disclosures, filings, news across 2M+ sources in 76 languages) into
+  auditable, decision-ready intelligence and fully-formed deliverables such as
+  credit memos, IC memos, portfolio-monitoring alerts, sustainability reports and
+  LP reporting. Its RAG-powered agents cover 550,000+ companies and entities and
+  complete end-to-end workflows autonomously for banks, asset managers, private
+  credit, insurers and other institutional clients. Founded by Chandini Jain (CEO)
+  and Shub Jain (CTO) with offices in New York and London, Auquan is used by 40%
+  of the top 50 financial institutions (MetLife, T. Rowe Price, BC Partners) and
+  was named a Gartner 2025 Cool Vendor in Agentic AI. The platform is
+  demo/sales-gated and publishes no public self-service API or developer portal.
 url: https://raw.githubusercontent.com/api-evangelist/auquan/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
 - techstars
-x-tier: stub
-x-tier-reason: portfolio-lead
+x-tier: profiled
+x-tier-reason: enriched-no-public-api-surface
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://framerusercontent.com/assets/HFFhpbc5fK7uMKW6lVQTF7HuyGg.png
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
+- Artificial Intelligence
+- Agentic AI
+- Financial Services
+- Fintech
+- Data Analytics
+- Machine Learning
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -22,4 +51,25 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: https://auquan.com/
+  url: https://www.auquan.com/
+- type: About
+  url: https://www.auquan.com/about
+- type: Blog
+  url: https://insights.auquan.com/
+- type: BlogRSS
+  url: https://insights.auquan.com/rss.xml
+- type: Login
+  url: https://engine.auquan.com/
+- type: Support
+  url: https://www.auquan.com/contact
+- type: PrivacyPolicy
+  url: https://www.auquan.com/privacy
+- type: LLMsTxt
+  url: llms/auquan-llms.txt
+- type: DomainSecurity
+  url: security/auquan-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
