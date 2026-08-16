@@ -16,6 +16,13 @@
       "method": "none"
     },
     {
+      "source": "https://insights.auquan.com/atom.xml",
+      "feed_url": "https://insights.auquan.com/atom.xml",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
       "source": "https://insights.auquan.com/",
       "feed_url": "https://insights.auquan.com/atom.xml",
       "title": "",
@@ -24,5 +31,5 @@
     }
   ],
   "post_count": 10,
-  "fetched": "2026-08-06T14:08:46Z"
+  "fetched": "2026-08-15T12:22:01Z"
 }
